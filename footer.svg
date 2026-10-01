@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="Process finished with exit code 0. Thanks for stopping by.">
+<title>Thanks for stopping by</title>
+<style>.mono{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}@keyframes on{from,to{opacity:1}}.bye{animation:pop .5s ease-out 1.5s backwards}@keyframes pop{from{opacity:0}to{opacity:1}}@keyframes f0{from{transform:translateX(0)}to{transform:translateX(300.0px)}}.f0{opacity:0;transform:translateX(300.0px);animation:f0 0.9s steps(33,end) 0.4s both,hold 1.3s linear both}.f0c{opacity:0;animation:on 0.9s linear 0.4s}@keyframes hold{0%,99.9%{opacity:1}100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><clipPath id="card"><rect width="1000" height="64" rx="14"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="64" fill="#0f1613"/>
+<rect y="61" width="620.0" height="3" fill="#6db33f"/>
+<rect x="620.0" y="61" width="380.0" height="3" fill="#f89820"/>
+<text class="mono" x="28" y="38" font-size="15" xml:space="preserve"><tspan fill="#6f8278">Process finished with exit code </tspan><tspan fill="#6db33f" font-weight="700">0</tspan></text><g class="f0"><rect x="27" y="21.8" width="324.0" height="22.5" fill="#0f1613"/><rect class="f0c" x="28" y="25.1" width="9.0" height="16.8" fill="#f89820"/></g>
+<text class="sans bye" x="972" y="38" font-size="15" fill="#d5ded8" text-anchor="end">Thanks for stopping by<tspan fill="#f89820">.</tspan></text>
+</g>
+<rect x=".5" y=".5" width="999" height="63" rx="13.5" fill="none" stroke="#24332b"/>
+</svg>
