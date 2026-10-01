@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm Omar, an IT &amp; networks engineer from Morocco. I build backend services with <b>Java</b> and <b>Spring Boot</b>,<br/>
+  I'm Omar, an IT &amp; networks engineer from Morocco. I build backend services with <b>Java</b> and <b>Spring Boot</b>,
   with a soft spot for clean architecture, well-designed REST APIs and systems that scale.
 </p>
 
